@@ -1,0 +1,19 @@
+{
+	"name": "blackjack",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"exec": "nodemon blackjack.ts"
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@types/underscore": "^1.11.15",
+		"nodemon": "^3.0.2",
+		"typescript": "^5.3.3"
+	},
+	"dependencies": {
+		"underscore": "^1.13.6"
+	}
+}
